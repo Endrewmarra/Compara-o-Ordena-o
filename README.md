@@ -1,4 +1,4 @@
-# Compara-o-Ordena-o
+# Comparando metodos de ordenação
 Código onde aplico, testo e comparo velocidade e eficiencia de metodos de ordenação que aprendo.
 Uso uma biblioteca Random para gerar listas aleatorias de numeros, copio a lista original para cada um dos metodos que eu pretendo usar, defino o metodo por meio de funções.
 A função com o metodo de ordenação recebe uma lista (copia da lista original), inicia um timer utilizando a biblioteca TIME, apos o timer segue o algoritimo de ordenação em questão, e por fim a parada do timer, e assim a função retorna tanto a lista ordenada, quanto o tempo que levou para concluir o processo.
